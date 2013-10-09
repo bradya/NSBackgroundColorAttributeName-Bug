@@ -8,6 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@interface BOAViewController : UIViewController
+@class TestView;
+
+@interface BOAViewController : UIViewController {
+    TestView *testView;
+}
 
 @end

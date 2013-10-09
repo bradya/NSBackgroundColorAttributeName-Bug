@@ -22,6 +22,7 @@
 		231A75CA1805D25A009B7516 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 231A75A91805D25A009B7516 /* UIKit.framework */; };
 		231A75D21805D25A009B7516 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 231A75D01805D25A009B7516 /* InfoPlist.strings */; };
 		231A75D41805D25A009B7516 /* NSBackgroundColorTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 231A75D31805D25A009B7516 /* NSBackgroundColorTestTests.m */; };
+		231A75DF1805D5D5009B7516 /* TestView.m in Sources */ = {isa = PBXBuildFile; fileRef = 231A75DE1805D5D5009B7516 /* TestView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,8 @@
 		231A75CF1805D25A009B7516 /* NSBackgroundColorTestTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "NSBackgroundColorTestTests-Info.plist"; sourceTree = "<group>"; };
 		231A75D11805D25A009B7516 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		231A75D31805D25A009B7516 /* NSBackgroundColorTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NSBackgroundColorTestTests.m; sourceTree = "<group>"; };
+		231A75DD1805D5D5009B7516 /* TestView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestView.h; sourceTree = "<group>"; };
+		231A75DE1805D5D5009B7516 /* TestView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,6 +123,8 @@
 				231A75BA1805D25A009B7516 /* Main_iPad.storyboard */,
 				231A75BD1805D25A009B7516 /* BOAViewController.h */,
 				231A75BE1805D25A009B7516 /* BOAViewController.m */,
+				231A75DD1805D5D5009B7516 /* TestView.h */,
+				231A75DE1805D5D5009B7516 /* TestView.m */,
 				231A75C01805D25A009B7516 /* Images.xcassets */,
 				231A75AC1805D25A009B7516 /* Supporting Files */,
 			);
@@ -254,6 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				231A75DF1805D5D5009B7516 /* TestView.m in Sources */,
 				231A75B21805D25A009B7516 /* main.m in Sources */,
 				231A75B61805D25A009B7516 /* BOAAppDelegate.m in Sources */,
 				231A75BF1805D25A009B7516 /* BOAViewController.m in Sources */,
@@ -397,6 +403,7 @@
 				GCC_PREFIX_HEADER = "NSBackgroundColorTest/NSBackgroundColorTest-Prefix.pch";
 				INFOPLIST_FILE = "NSBackgroundColorTest/NSBackgroundColorTest-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -410,6 +417,7 @@
 				GCC_PREFIX_HEADER = "NSBackgroundColorTest/NSBackgroundColorTest-Prefix.pch";
 				INFOPLIST_FILE = "NSBackgroundColorTest/NSBackgroundColorTest-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -475,6 +483,7 @@
 				231A75D91805D25A009B7516 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		231A75DA1805D25A009B7516 /* Build configuration list for PBXNativeTarget "NSBackgroundColorTestTests" */ = {
 			isa = XCConfigurationList;
@@ -483,6 +492,7 @@
 				231A75DC1805D25A009B7516 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

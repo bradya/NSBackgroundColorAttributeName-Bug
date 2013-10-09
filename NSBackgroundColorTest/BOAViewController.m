@@ -7,6 +7,7 @@
 //
 
 #import "BOAViewController.h"
+#import "TestView.h"
 
 @interface BOAViewController ()
 
@@ -18,6 +19,18 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    testView = [[TestView alloc] initWithFrame:CGRectMake(0, 0, 300, 300)];
+    testView.backgroundColor = [UIColor lightGrayColor];
+    
+    [self.view addSubview:testView];
+}
+
+-(void)viewDidLayoutSubviews
+{
+    [super viewDidLayoutSubviews];
+    
+    testView.center = self.view.center;
 }
 
 - (void)didReceiveMemoryWarning

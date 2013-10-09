@@ -1,0 +1,376 @@
+TNSBackgroundColorTest
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/PrecompiledHeaders/NSBackgroundColorTest-Prefix-dmyhxdxzvefnufdadqbzmerbwowr/NSBackgroundColorTest-Prefix.pch.pch NSBackgroundColorTest/NSBackgroundColorTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/Objects-normal/i386/main.o /Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/Objects-normal/i386/BOAAppDelegate.o /Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/BOAAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/Objects-normal/i386/BOAViewController.o /Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/BOAViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app/NSBackgroundColorTest normal i386
+cGenerateDSYMFile /Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app.dSYM /Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app/NSBackgroundColorTest
+cCompileStoryboard /Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/Base.lproj/Main_iPad.storyboard
+cCopyStringsFile /Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app/en.lproj/InfoPlist.strings NSBackgroundColorTest/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/Base.lproj/Main_iPhone.storyboard
+cCompileAssetCatalog /Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app /Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/Images.xcassets
+cProcessInfoPlistFile /Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app/Info.plist /Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/NSBackgroundColorTest-Info.plist
+cTouch /Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000521BCCE50000000000000176
+t1377553637
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c00000000522ACC8F00000000000003B5
+t1378536591
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000522ACCD2000000000000019E
+t1378536658
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000522ACCEE0000000000445830
+t1378536686
+s4479024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000522ACCFA000000000088B570
+t1378536698
+s8959344
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000522ACD200000000001DB1C90
+t1378536736
+s31136912
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c00000000520D88540000000000000AC9
+t1376618580
+s2761
+
+N/Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/Objects-normal/i386/BOAAppDelegate.o
+t1381341924
+s65396
+
+N/Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/Objects-normal/i386/BOAViewController.o
+t1381341924
+s41100
+
+N/Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/Objects-normal/i386/NSBackgroundColorTest.LinkFileList
+c0000000052559AE3000000000000020F
+t1381341923
+s527
+
+N/Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/Objects-normal/i386/main.o
+t1381341924
+s3692
+
+N/Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/assetcatalog_dependencies.txt
+t1381341925
+s442
+
+N/Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/assetcatalog_generated_info.plist
+t1381341925
+s525
+
+N/Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/PrecompiledHeaders/NSBackgroundColorTest-Prefix-dmyhxdxzvefnufdadqbzmerbwowr/NSBackgroundColorTest-Prefix.pch.pch
+t1381341924
+s114588
+
+N/Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app
+t1381341925
+s306
+
+N/Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app.dSYM
+t2
+s0
+
+N/Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app/Base.lproj/Main_iPad.storyboardc
+t1381341924
+s170
+
+N/Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app/Base.lproj/Main_iPhone.storyboardc
+t1381341924
+s170
+
+N/Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app/Info.plist
+t1381341925
+s1322
+
+N/Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app/NSBackgroundColorTest
+t1381341924
+s17240
+
+N/Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app/PkgInfo
+t1381341925
+s8
+
+N/Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app/en.lproj/InfoPlist.strings
+t1381341924
+s42
+
+N/Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/BOAAppDelegate.m
+c0000000052559ADA00000000000007E9
+t1381341914
+s2025
+
+N/Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/BOAViewController.m
+c0000000052559ADA0000000000000202
+t1381341914
+s514
+
+N/Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/Base.lproj/Main_iPad.storyboard
+c0000000052559ADA0000000000000647
+t1381341914
+s1607
+
+N/Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/Base.lproj/Main_iPhone.storyboard
+c0000000052559ADA0000000000000633
+t1381341914
+s1587
+
+N/Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/Images.xcassets
+c0000000052559ADA0000000000000088
+t1381341914
+s136
+
+N/Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/NSBackgroundColorTest-Info.plist
+c0000000052559ADA000000000000062F
+t1381341914
+s1583
+
+N/Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/NSBackgroundColorTest-Prefix.pch
+c0000000052559ADA0000000000000158
+t1381341914
+s344
+
+N/Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/en.lproj/InfoPlist.strings
+c0000000052559ADA000000000000002D
+t1381341914
+s45
+
+N/Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/main.m
+c0000000052559ADA0000000000000160
+t1381341914
+s352
+
+CBuild AST from /Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/BOAAppDelegate.m
+r0
+
+CBuild AST from /Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/BOAViewController.m
+r0
+
+CBuild AST from /Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies5724e263d205b841^0306e963d205b841^---0#1#1#--18"Check dependencies36"1CDB6DC4-F951-457F-BF85-2D5A682FE3E9-
+
+CCompileAssetCatalog /Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app /Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/Images.xcassets
+s403034724.289618
+e403034725.316587
+r1
+xCompileAssetCatalog
+x/Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app
+x/Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app/LaunchImage-700-568h@2x.png
+o/Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app/Assets.car
+o/Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"CompileAssetCatalog Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app NSBackgroundColorTest/Images.xcassets120"CompileAssetCatalog Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app NSBackgroundColorTest/Images.xcassets9b374a64d205b841^910c5165d205b841^-470"/* com.apple.actool.compilation-results *//Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app/LaunchImage-700-568h@2x.png/Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app/Assets.car/Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@97"file://localhost/Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/Images.xcassets/0000000000000000^1291"CompileAssetCatalog Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app NSBackgroundColorTest/Images.xcassets    cd /Users/brady/Dropbox/NSBackgroundColorTest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --target-device ipad --compress-pngs --compile /Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app /Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/Images.xcassets36"1210EB36-1EB7-406A-BD7C-81D616A0A9FB-
+b855B8E9A-C773-493D-85DE-969EC5745E7D
+
+CCompileC Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/Objects-normal/i386/BOAAppDelegate.o /Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/BOAAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403034724.079476
+e403034724.201863
+r1
+xCompileC
+xBuild/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/Objects-normal/i386/BOAAppDelegate.o
+x/Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/BOAAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/BOAAppDelegate.m
+d/Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/BOAAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/BOAAppDelegate.m250"CompileC Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/Objects-normal/i386/BOAAppDelegate.o NSBackgroundColorTest/BOAAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler287e1464d205b841^3eb03364d205b841^---0#0#1#-19%DVTDocumentLocation2@97"file://localhost/Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/BOAAppDelegate.m0000000000000000^4105"CompileC Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/Objects-normal/i386/BOAAppDelegate.o NSBackgroundColorTest/BOAAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/brady/Dropbox/NSBackgroundColorTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/brady/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/NSBackgroundColorTest-generated-files.hmap -I/Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/NSBackgroundColorTest-own-target-headers.hmap -I/Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/NSBackgroundColorTest-all-target-headers.hmap -iquote /Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/NSBackgroundColorTest-project-headers.hmap -I/Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/DerivedSources/i386 -I/Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/DerivedSources -F/Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator -include /Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/PrecompiledHeaders/NSBackgroundColorTest-Prefix-dmyhxdxzvefnufdadqbzmerbwowr/NSBackgroundColorTest-Prefix.pch -MMD -MT dependencies -MF /Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/Objects-normal/i386/BOAAppDelegate.d --serialize-diagnostics /Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/Objects-normal/i386/BOAAppDelegate.dia -c /Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/BOAAppDelegate.m -o /Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/Objects-normal/i386/BOAAppDelegate.o36"E31F9179-53AC-4A6A-AF0E-6BA2448E4037-
+b855B8E9A-C773-493D-85DE-969EC5745E7D
+
+CCompileC Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/Objects-normal/i386/BOAViewController.o /Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/BOAViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403034724.079465
+e403034724.180427
+r1
+xCompileC
+xBuild/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/Objects-normal/i386/BOAViewController.o
+x/Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/BOAViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/BOAViewController.m
+d/Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/BOAViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/BOAViewController.m256"CompileC Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/Objects-normal/i386/BOAViewController.o NSBackgroundColorTest/BOAViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilercc7f1464d205b841^37332e64d205b841^---0#0#1#-19%DVTDocumentLocation2@100"file://localhost/Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/BOAViewController.m0000000000000000^4123"CompileC Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/Objects-normal/i386/BOAViewController.o NSBackgroundColorTest/BOAViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/brady/Dropbox/NSBackgroundColorTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/brady/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/NSBackgroundColorTest-generated-files.hmap -I/Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/NSBackgroundColorTest-own-target-headers.hmap -I/Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/NSBackgroundColorTest-all-target-headers.hmap -iquote /Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/NSBackgroundColorTest-project-headers.hmap -I/Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/DerivedSources/i386 -I/Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/DerivedSources -F/Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator -include /Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/PrecompiledHeaders/NSBackgroundColorTest-Prefix-dmyhxdxzvefnufdadqbzmerbwowr/NSBackgroundColorTest-Prefix.pch -MMD -MT dependencies -MF /Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/Objects-normal/i386/BOAViewController.d --serialize-diagnostics /Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/Objects-normal/i386/BOAViewController.dia -c /Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/BOAViewController.m -o /Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/Objects-normal/i386/BOAViewController.o36"5CEED16D-3F8C-42DB-A5E2-53D05B2D5F5C-
+b855B8E9A-C773-493D-85DE-969EC5745E7D
+
+CCompileC Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/Objects-normal/i386/main.o /Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403034724.079466
+e403034724.133693
+r1
+xCompileC
+xBuild/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/Objects-normal/i386/main.o
+x/Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/main.m
+d/Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/BOAAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/main.m230"CompileC Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/Objects-normal/i386/main.o NSBackgroundColorTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7d7a1464d205b841^5c3a2264d205b841^---0#0#1#-19%DVTDocumentLocation2@87"file://localhost/Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/main.m0000000000000000^4045"CompileC Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/Objects-normal/i386/main.o NSBackgroundColorTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/brady/Dropbox/NSBackgroundColorTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/brady/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/NSBackgroundColorTest-generated-files.hmap -I/Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/NSBackgroundColorTest-own-target-headers.hmap -I/Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/NSBackgroundColorTest-all-target-headers.hmap -iquote /Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/NSBackgroundColorTest-project-headers.hmap -I/Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/DerivedSources/i386 -I/Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/DerivedSources -F/Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator -include /Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/PrecompiledHeaders/NSBackgroundColorTest-Prefix-dmyhxdxzvefnufdadqbzmerbwowr/NSBackgroundColorTest-Prefix.pch -MMD -MT dependencies -MF /Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/Objects-normal/i386/main.dia -c /Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/main.m -o /Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/Objects-normal/i386/main.o36"7E843C8A-86CD-461A-A774-3746303F758D-
+b855B8E9A-C773-493D-85DE-969EC5745E7D
+
+CCompileStoryboard /Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/Base.lproj/Main_iPad.storyboard
+s403034724.288555
+e403034724.657881
+r1
+xCompileStoryboard
+x/Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/Base.lproj/Main_iPad.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"CompileStoryboard NSBackgroundColorTest/Base.lproj/Main_iPad.storyboard71"CompileStoryboard NSBackgroundColorTest/Base.lproj/Main_iPad.storyboard6ef84964d205b841^d575a864d205b841^---0#0#1#-19%DVTDocumentLocation2@112"file://localhost/Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/Base.lproj/Main_iPad.storyboard0000000000000000^908"CompileStoryboard NSBackgroundColorTest/Base.lproj/Main_iPad.storyboard    cd /Users/brady/Dropbox/NSBackgroundColorTest    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app/Base.lproj/Main_iPad.storyboardc /Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/Base.lproj/Main_iPad.storyboard36"648EF9C9-0FC2-46E6-B106-4740628B9625-
+b855B8E9A-C773-493D-85DE-969EC5745E7D
+
+CCompileStoryboard /Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/Base.lproj/Main_iPhone.storyboard
+s403034724.288575
+e403034724.657869
+r1
+xCompileStoryboard
+x/Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/Base.lproj/Main_iPhone.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"CompileStoryboard NSBackgroundColorTest/Base.lproj/Main_iPhone.storyboard73"CompileStoryboard NSBackgroundColorTest/Base.lproj/Main_iPhone.storyboardbdfd4964d205b841^8b6ba864d205b841^---0#0#1#-19%DVTDocumentLocation2@114"file://localhost/Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/Base.lproj/Main_iPhone.storyboard0000000000000000^914"CompileStoryboard NSBackgroundColorTest/Base.lproj/Main_iPhone.storyboard    cd /Users/brady/Dropbox/NSBackgroundColorTest    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app/Base.lproj/Main_iPhone.storyboardc /Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/Base.lproj/Main_iPhone.storyboard36"BF5D34D4-B17E-426A-ADD1-E2F8ED313DC6-
+b855B8E9A-C773-493D-85DE-969EC5745E7D
+
+CCopyStringsFile /Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app/en.lproj/InfoPlist.strings NSBackgroundColorTest/en.lproj/InfoPlist.strings
+s403034724.288559
+e403034724.292604
+r1
+xCopyStringsFile
+x/Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app/en.lproj/InfoPlist.strings
+xNSBackgroundColorTest/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy NSBackgroundColorTest/en.lproj/InfoPlist.strings154"CopyStringsFile Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app/en.lproj/InfoPlist.strings NSBackgroundColorTest/en.lproj/InfoPlist.strings87fa4964d205b841^25e94a64d205b841^---0#0#1#-19%DVTDocumentLocation2@107"file://localhost/Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/en.lproj/InfoPlist.strings0000000000000000^657"CopyStringsFile Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app/en.lproj/InfoPlist.strings NSBackgroundColorTest/en.lproj/InfoPlist.strings    cd /Users/brady/Dropbox/NSBackgroundColorTest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app/en.lproj -- NSBackgroundColorTest/en.lproj/InfoPlist.strings36"C983B623-D7B8-43FA-9948-454B7DA0BEDE-
+b855B8E9A-C773-493D-85DE-969EC5745E7D
+
+CGenerateDSYMFile /Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app.dSYM /Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app/NSBackgroundColorTest
+s403034724.262602
+e403034724.280264
+r1
+xGenerateDSYMFile
+x/Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app.dSYM
+x/Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app/NSBackgroundColorTest
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Generate /Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app.dSYM169"GenerateDSYMFile Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app.dSYM Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app/NSBackgroundColorTest454a4364d205b841^5dc04764d205b841^---0#0#1#-19%DVTDocumentLocation2@126"file://localhost/Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app.dSYM00389c97dcffdf42^757"GenerateDSYMFile Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app.dSYM Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app/NSBackgroundColorTest    cd /Users/brady/Dropbox/NSBackgroundColorTest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app/NSBackgroundColorTest -o /Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app.dSYM36"DAF39B95-426C-40A4-AE7C-8A5848C519DA-
+b855B8E9A-C773-493D-85DE-969EC5745E7D
+
+CLd /Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app/NSBackgroundColorTest normal i386
+s403034724.210817
+e403034724.253946
+r1
+xLd
+x/Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app/NSBackgroundColorTest
+xnormal
+xi386
+d/Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/Objects-normal/i386/NSBackgroundColorTest.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/Objects-normal/i386/main.o
+d/Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/Objects-normal/i386/BOAAppDelegate.o
+d/Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/Objects-normal/i386/BOAViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libdnsinfo.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"Link /Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app/NSBackgroundColorTest99"Ld Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app/NSBackgroundColorTest normal i386ed0d3664d205b841^f7044164d205b841^---0#0#1#--1553"Ld Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app/NSBackgroundColorTest normal i386    cd /Users/brady/Dropbox/NSBackgroundColorTest    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator -F/Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator -filelist /Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/Objects-normal/i386/NSBackgroundColorTest.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/Objects-normal/i386/NSBackgroundColorTest_dependency_info.dat -o /Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app/NSBackgroundColorTest36"733E2DA1-2784-435A-A47A-499415444B26-
+b855B8E9A-C773-493D-85DE-969EC5745E7D
+
+CProcessInfoPlistFile /Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app/Info.plist /Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/NSBackgroundColorTest-Info.plist
+s403034725.324935
+e403034725.327940
+r1
+xProcessInfoPlistFile
+x/Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app/Info.plist
+x/Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/NSBackgroundColorTest-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Process /Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/NSBackgroundColorTest-Info.plist149"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app/Info.plist NSBackgroundColorTest/NSBackgroundColorTest-Info.plistab425365d205b841^66f45365d205b841^---0#0#1#-19%DVTDocumentLocation2@113"file://localhost/Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/NSBackgroundColorTest-Info.plist0000000000000000^1028"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app/Info.plist NSBackgroundColorTest/NSBackgroundColorTest-Info.plist    cd /Users/brady/Dropbox/NSBackgroundColorTest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/NSBackgroundColorTest-Info.plist -genpkginfo /Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/assetcatalog_generated_info.plist -o /Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app/Info.plist36"6D714243-3CC7-4EB7-8156-BE180005A9D1-
+b855B8E9A-C773-493D-85DE-969EC5745E7D
+
+CProcessPCH /Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/PrecompiledHeaders/NSBackgroundColorTest-Prefix-dmyhxdxzvefnufdadqbzmerbwowr/NSBackgroundColorTest-Prefix.pch.pch NSBackgroundColorTest/NSBackgroundColorTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403034723.913910
+e403034724.070635
+r1
+xProcessPCH
+x/Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/PrecompiledHeaders/NSBackgroundColorTest-Prefix-dmyhxdxzvefnufdadqbzmerbwowr/NSBackgroundColorTest-Prefix.pch.pch
+xNSBackgroundColorTest/NSBackgroundColorTest-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/NSBackgroundColorTest-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Precompile NSBackgroundColorTest/NSBackgroundColorTest-Prefix.pch267"ProcessPCH Build/Intermediates/PrecompiledHeaders/NSBackgroundColorTest-Prefix-dmyhxdxzvefnufdadqbzmerbwowr/NSBackgroundColorTest-Prefix.pch.pch NSBackgroundColorTest/NSBackgroundColorTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera512ea63d205b841^cf141264d205b841^---0#0#1#-19%DVTDocumentLocation2@113"file://localhost/Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/NSBackgroundColorTest-Prefix.pch0000000000000000^3956"ProcessPCH Build/Intermediates/PrecompiledHeaders/NSBackgroundColorTest-Prefix-dmyhxdxzvefnufdadqbzmerbwowr/NSBackgroundColorTest-Prefix.pch.pch NSBackgroundColorTest/NSBackgroundColorTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/brady/Dropbox/NSBackgroundColorTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/brady/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/NSBackgroundColorTest-generated-files.hmap -I/Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/NSBackgroundColorTest-own-target-headers.hmap -I/Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/NSBackgroundColorTest-all-target-headers.hmap -iquote /Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/NSBackgroundColorTest-project-headers.hmap -I/Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/DerivedSources/i386 -I/Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/NSBackgroundColorTest.build/Debug-iphonesimulator/NSBackgroundColorTest.build/DerivedSources -F/Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/PrecompiledHeaders/NSBackgroundColorTest-Prefix-dmyhxdxzvefnufdadqbzmerbwowr/NSBackgroundColorTest-Prefix.pch.dia -MMD -MT dependencies -MF /Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/PrecompiledHeaders/NSBackgroundColorTest-Prefix-dmyhxdxzvefnufdadqbzmerbwowr/NSBackgroundColorTest-Prefix.pch.d -c /Users/brady/Dropbox/NSBackgroundColorTest/NSBackgroundColorTest/NSBackgroundColorTest-Prefix.pch -o /Users/brady/Dropbox/NSBackgroundColorTest/Build/Intermediates/PrecompiledHeaders/NSBackgroundColorTest-Prefix-dmyhxdxzvefnufdadqbzmerbwowr/NSBackgroundColorTest-Prefix.pch.pch36"17DC7D94-F868-4024-A6C6-935227FB0447-
+b855B8E9A-C773-493D-85DE-969EC5745E7D
+
+CProcessPCH /Users/brady/Library/Developer/Xcode/DerivedData/NSBackgroundColorTest-cdjijrulnlvmajdqekalardaalft/Index/PrecompiledHeaders/NSBackgroundColorTest-Prefix-gbtleuboheojqyfaultfiotdzkrw_ast/NSBackgroundColorTest-Prefix.pch.pch NSBackgroundColorTest/NSBackgroundColorTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/brady/Dropbox/NSBackgroundColorTest/Build/Products/Debug-iphonesimulator/NSBackgroundColorTest.app
+r0
+
